@@ -10,4 +10,5 @@ Tools: Excel, VBA, Seaborn, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, 
 
 Applications: GitHub, MySQL, PostgreSQL, Command Line, Tableau
 
-![Becky GitHub stats](https://github-readme-stats.vercel.app/api?username=bweirich&theme=synthwave&show_icons=true&count_private=true 'Becky GutHub Stats')
+![Becky GitHub stats](https://github-readme-stats.vercel.app/api?username=bweirich&theme=react&show_icons=true&count_private=true 'Becky GutHub Stats')
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bweirich&theme=react 'Becky\'s Top Languages Card')
