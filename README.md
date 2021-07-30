@@ -6,7 +6,7 @@ Languages: Python, SQL, JavaScript ES6+
 Tools: Excel, VBA, Seaborn, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, Plotly, d3
 Applications: GitHub, MySQL, PostgreSQL, Command Line, Tableau
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<bweirich>&theme=<THEME_NAME>" />
 <!--
 **bweirich/bweirich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
