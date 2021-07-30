@@ -7,7 +7,7 @@ Data Analyst graduate of the University of Texas Data Analytics Boot Camp certif
 
 Technical Skills
 
-Languages: Python, SQL, JavaScript ES6+
+Languages: ![alt_text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) , SQL, JavaScript ES6+
 
 Tools: Excel, VBA, Seaborn, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, Plotly, d3
 
