@@ -10,4 +10,4 @@ Tools: Excel, VBA, Seaborn, Scikit learn, Matplotlib, Pandas, Jupyter Notebook, 
 
 Applications: GitHub, MySQL, PostgreSQL, Command Line, Tableau
 
-[Beckys’ GitHub stats](https://github-readme-stats.vercel.app/api?username=bweirich&theme=synthwave&show_icons=true&count_private=true “Beckys’ GutHub Stats”)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave “Andres’ Top Languages Card”)
